@@ -7,16 +7,16 @@ This Power BI project focuses on sales performance analysis and demand forecasti
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](Executive_Overview.png)
 
 ### Product Intelligence
-![Product Intelligence](Screenshots/Product_Intelligence.png)
+![Product Intelligence](Product_Intelligence.png)
 
 ### Regional Analysis
-![Regional Analysis](Screenshots/Regional_Analysis.png)
+![Regional Analysis](Regional_Analysis.png)
 
 ### Demand Forecasting
-![Demand Forecasting](Screenshots/Demand_Forecasting.png)
+![Demand Forecasting](Demand_Forecasting.png)
 
 ---
 
